@@ -1,0 +1,25 @@
+# 忽略依赖与构建产物
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+
+# 忽略本地环境变量（含可能的密钥）
+.env
+.env.local
+.env.*.local
+
+# 忽略运行期数据与备份（数据文件可能很大，且含本地采集结果）
+server/data.json
+server/data.json.bak.*
+server/.scheduler.lock
+
+# 忽略日志
+*.log
+.launchd-dev.log
+npm-debug.log*
+
+# 忽略系统文件
+.DS_Store
+**/.DS_Store
+Thumbs.db

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "TesterHome 社区",
+    "url": "https://testerhome.com/topics",
+    "category": "c_auto",
+    "note": "国内最大的测试工程师社区，自动化/性能/质量工程话题活跃"
+  },
+  {
+    "name": "CSDN · 测试专栏",
+    "url": "https://blog.csdn.net/nav/test",
+    "category": "c_auto",
+    "note": "综合技术社区，测试分类下文章量大"
+  },
+  {
+    "name": "51Testing 软件测试网",
+    "url": "http://www.51testing.com/html/index.html",
+    "category": "c_quality",
+    "note": "老牌测试垂直门户，功能/性能/自动化覆盖全"
+  },
+  {
+    "name": "知乎 · 软件测试话题",
+    "url": "https://www.zhihu.com/topic/19550956",
+    "category": "c_industry",
+    "note": "行业观点与职业讨论多"
+  },
+  {
+    "name": "InfoQ 中国",
+    "url": "https://www.infoq.cn/",
+    "category": "c_industry",
+    "note": "架构与工程效能深度内容，含质量主题"
+  },
+  {
+    "name": "美团技术团队",
+    "url": "https://tech.meituan.com/",
+    "category": "c_auto",
+    "note": "大厂工程实践，测试/稳定性文章质量高"
+  },
+  {
+    "name": "Ministry of Testing",
+    "url": "https://www.ministryoftesting.com/",
+    "category": "c_quality",
+    "note": "英文社区，测试方法论与职业成长"
+  },
+  {
+    "name": "Anthropic Engineering",
+    "url": "https://www.anthropic.com/engineering",
+    "category": "c_ai",
+    "note": "Agent、Agent Skills、MCP 的一手工程实践，含金量最高"
+  },
+  {
+    "name": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/",
+    "category": "c_ai",
+    "note": "LLM 工具调用、Agent 模式与实操复盘，更新极快"
+  },
+  {
+    "name": "LangChain Blog",
+    "url": "https://blog.langchain.dev/",
+    "category": "c_ai",
+    "note": "Agent 架构与 LangGraph 工作流编排"
+  },
+  {
+    "name": "Prompt Engineering Guide",
+    "url": "https://www.promptingguide.ai/",
+    "category": "c_ai",
+    "note": "提示工程、Agent 技法与最佳实践，体系化"
+  },
+  {
+    "name": "n8n Blog",
+    "url": "https://blog.n8n.io/",
+    "category": "c_ai",
+    "note": "自动化工作流 + AI Agent 编排落地案例"
+  },
+  {
+    "name": "Dify 博客",
+    "url": "https://dify.ai/blog",
+    "category": "c_ai",
+    "note": "中文团队，LLM 应用编排与工作流实践"
+  },
+  {
+    "name": "掘金 · 人工智能",
+    "url": "https://juejin.cn/tag/人工智能",
+    "category": "c_ai",
+    "note": "中文一线 AI 应用实践，量大更新快"
+  },
+  {
+    "name": "掘金 · Agent",
+    "url": "https://juejin.cn/tag/Agent",
+    "category": "c_ai",
+    "note": "中文智能体 / Agent 落地与踩坑记录"
+  }
+]
